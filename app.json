@@ -1,5 +1,14 @@
 {
   "expo": {
-    "sdkVersion": "27.0.0"
+    "sdkVersion": "27.0.0",
+    "version": "1.0.0",
+    "slug": "TodosReactRedux",
+    "name": "TodosReactRedux",
+    "ios":{
+      "bundleIdentifier": "com.williamreactnative.todosreactredux"
+    },
+    "android":{
+      "package": "com.williamreactnative.todosreactredux"
+    }
   }
 }
